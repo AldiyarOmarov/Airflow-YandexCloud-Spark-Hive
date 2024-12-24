@@ -1,0 +1,11 @@
+apache-airflow
+apache-airflow-providers-yandex
+yandexcloud
+requests
+pyyaml
+psycopg2-binary
+boto3
+protobuf
+pyarrow
+pandas
+python-dotenv
